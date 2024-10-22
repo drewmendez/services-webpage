@@ -28,9 +28,9 @@ export default function MarketExposure() {
           </h2>
           <p className="font-semibold">Our Online Marketing Strategy</p>
           <p className="mx-auto max-w-[850px]">
-            The Bay Area remains one of the world's most sought-after regions to
-            live in, and when looking to sell, it is vital that your home be
-            marketed online to audiences locally, nationally, and
+            The Bay Area remains one of the world&apos;s most sought-after
+            regions to live in, and when looking to sell, it is vital that your
+            home be marketed online to audiences locally, nationally, and
             internationally.
           </p>
         </div>

@@ -10,11 +10,11 @@ export default function MoreService() {
               </h3>
               <p>
                 We provide every one of our clients with a level of service they
-                won't find anywhere else. We give them what they need, often
-                before they know they need it. In real estate, almost everything
-                can be negotiated. When you choose Hansen Partners It is
-                experience is 100% nonnegotiable. And it's an experience like no
-                other.
+                won&apos;s find anywhere else. We give them what they need,
+                often before they know they need it. In real estate, almost
+                everything can be negotiated. When you choose Hansen Partners It
+                is experience is 100% nonnegotiable. And it&apos;s an experience
+                like no other.
               </p>
             </div>
           </div>
@@ -41,14 +41,14 @@ export default function MoreService() {
                 We Want To Create An Unforgettable Experience For You...
               </h3>
               <p>
-                We combine data gained from your home’s Comparative Market
+                We combine data gained from your home&apos;s Comparative Market
                 Analysis with local market research to create a marketing plan
-                designed to help you meet your selling goals. Your home’s
+                designed to help you meet your selling goals. Your home&apos;s
                 carefully designed plan will include a range of online, print,
                 and other marketing tools targeted to the best-qualified pool of
-                buyers. Successfully marketing a home in today’s real estate
-                environment requires a firm with experience and flexibility.
-                Hansen Partners provides both.
+                buyers. Successfully marketing a home in today&apos;s real
+                estate environment requires a firm with experience and
+                flexibility. Hansen Partners provides both.
               </p>
             </div>
           </div>

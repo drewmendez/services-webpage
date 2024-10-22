@@ -39,7 +39,7 @@ export default function FooterForm() {
           checked={check}
           required
           type="checkbox"
-          onChange={(e) => setCheck(!check)}
+          onChange={() => setCheck(!check)}
         />
         <label className="cursor-pointer text-justify text-xs" htmlFor="check">
           By providing Julie Hansen Partnership your contact information, you
@@ -52,11 +52,11 @@ export default function FooterForm() {
           </Link>{" "}
           and consent to receiving marketing communications, including through
           automated calls, texts, and emails, some of which may use artificial
-          or prerecorded voices. This consent isn’t necessary for purchasing any
-          products or services and you may opt out at any time. To opt out from
-          texts, you can reply, ‘stop’ at any time. To opt out from emails, you
-          can click on the unsubscribe link in the emails. Message and data
-          rates may apply.
+          or prerecorded voices. This consent isn&apos;t necessary for
+          purchasing any products or services and you may opt out at any time.
+          To opt out from texts, you can reply, &apos;stop&apos; at any time. To
+          opt out from emails, you can click on the unsubscribe link in the
+          emails. Message and data rates may apply.
         </label>
       </div>
       {isSubmitted ? (
