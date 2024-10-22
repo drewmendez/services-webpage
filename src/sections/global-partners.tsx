@@ -41,9 +41,11 @@ export default function GlobalPartners() {
                   global audience and reach potential buyers and investors in
                   over 50 countries.
                 </p>
-                <p className="font-semibold">Who's Who in Luxury Real Estate</p>
+                <p className="font-semibold">
+                  Who&apos;s Who in Luxury Real Estate
+                </p>
                 <p>
-                  Who's Who in Luxury Real Estate is a global collection of
+                  Who&apos;s Who in Luxury Real Estate is a global collection of
                   luxury real estate brokers
                 </p>
               </div>
@@ -67,7 +69,7 @@ export default function GlobalPartners() {
             />
           </div>
           <div className="flex-1 md:mt-4">
-            <div className="space-y-14 pl-20 md:pl-0 2xl:space-y-9">
+            <div className="space-y-14 pl-20 2xl:space-y-9 md:pl-0">
               <p>
                 Through our international affiliations, we have a strong
                 presence in over 50 countries. Our luxury listings are sent to
