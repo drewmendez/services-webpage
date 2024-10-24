@@ -11,7 +11,7 @@ export default function BuyingProcess() {
       <div className="container grid h-full place-content-center 2xl:max-w-[1200px]">
         <div className="z-10 max-w-[1000px] space-y-10">
           <h3 className="text-center text-5xl font-semibold text-white md:text-3xl">
-            The Selling Process
+            The Buying Process
           </h3>
           <div className="flex flex-wrap justify-center gap-6">
             {processes.map((process, index) => (
